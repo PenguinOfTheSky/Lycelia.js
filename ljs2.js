@@ -1,33 +1,5 @@
 /*
 * @author Lycelia.com
-style guidelines: (under construction)
-.mjs modules: {varName}
-Do not use JS classes. -- or modules?
-for html classes, PascalCase
-variable type variable: v
-result/output: _ //or {type}_ ex: o_ (object-out; returns object)
-event: e
-${var}: pointer
-input: I // string input sI; array aI
-//H: html string
-h: height
-T: text
-string: s
-function: f
-default object variable: o
-default array variable: a, a2
-default number variable: n, n2
-int: i
-json: j
-Common variables:
-x, y, z locations
-r radius, regexp
-l length
-w width
--- name descriptively if default is not appropriate.
-m = generic element
-forEach/otherarraymethods((m,i)) (2nd dimension: (m2,i2))
-for (let i) (2nd: i2; 3rd: i3)
 */
 M = Math
 S = String //S(tring)
